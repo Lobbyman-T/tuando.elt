@@ -1,7 +1,0 @@
-(function(){var loadHandler=window['sl_{DC01E668-75B1-40E4-B0C3-2FB67997ED32}'];loadHandler&&loadHandler(8, '<div id="spr0_f571b99"><div id="spr1_f571b99" class="kern slide"><img id="img3_f571b99" src="data/img3.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_f571b99" class="kern slide"><div id="spr3_f571b99"><img id="img0_f571b99" src="data/img11.png" width="1278" height="720.75" alt="Background pattern\
-\
-Description automatically generated" style="left:0.31px;top:-0.281px;"/></div><div id="spr4_f571b99" style="left:-23.226px;top:192.199px;"><img id="img1_f571b99" src="data/img13.gif" width="346.56" height="346.56" alt="A picture containing text, vector graphics\
-\
-Description automatically generated"/></div><div id="spr5_f571b99" style="left:513.184px;top:41.771px;"><a id="hl0_f571b99" href="#" onclick="document.getElementById(\'coreSpr_5680697\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_5680697\').getCore().gotoSlide(9, this);return false;"><img id="img2_f571b99" src="data/img14.png" width="252" height="252.75" alt="A picture containing icon\
-\
-Description automatically generated" style="left:0.172px;top:-0.109px;"/></a></div></div></div>', '{"s":[]}');})();
