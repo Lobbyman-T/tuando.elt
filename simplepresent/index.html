@@ -47,7 +47,7 @@
 </head>
 <body>
 <div id="preloader"></div>
-<script src="data/browsersupport.js?2AFD836D"></script><script src="data/player.js?5EB45DA4"></script>
+<script src="data/browsersupport.js?FAE524F8"></script><script src="data/player.js?B5EFE669"></script>
 <div id="content"></div>
 <script>
 	(function(preinit){
@@ -59,7 +59,7 @@
 			var reportTemplate = "<scenarioReportTemplate version=\"4\" xmlns=\"http:\/\/www.ispringsolutions.com\/talkmaster\/scenario\/1\">\n  <templates>\n    <template id=\"useTakersEmailSettings\"><![CDATA[false]]><\/template>\n  <\/templates>\n  <messages>\n    <message id=\"from\"><![CDATA[iSpring Solutions]]><\/message>\n    <message id=\"subject\"><![CDATA[[%SIM_STATUS%] Simulation Results: &quot;%SIM_TITLE%&quot;]]><\/message>\n    <message id=\"user\"><![CDATA[User:]]><\/message>\n    <message id=\"userId\"><![CDATA[User:]]><\/message>\n    <message id=\"disclaimer\"><![CDATA[This is an automatically generated email to report dialog results. You are receiving this because the dialog author has specified your email address for sending dialog results.]]><\/message>\n    <message id=\"gradedScenario\"><![CDATA[Graded Simulation]]><\/message>\n    <message id=\"surveyScenario\"><![CDATA[Simulation]]><\/message>\n    <message id=\"userScore\"><![CDATA[User Score:]]><\/message>\n    <message id=\"maxScore\"><![CDATA[Maximum Score:]]><\/message>\n    <message id=\"passingScore\"><![CDATA[Passing Score:]]><\/message>\n    <message id=\"duration\"><![CDATA[Simulation Duration:]]><\/message>\n    <message id=\"scenarioResult\"><![CDATA[Result:]]><\/message>\n    <message id=\"passed\"><![CDATA[Simulation Passed]]><\/message>\n    <message id=\"failed\"><![CDATA[Simulation Failed]]><\/message>\n    <message id=\"finished\"><![CDATA[Simulation Finished]]><\/message>\n    <message id=\"score\"><![CDATA[Score:]]><\/message>\n    <message id=\"spentTimeFormat\"><![CDATA[%SPENT_TIME%]]><\/message>\n  <\/messages>\n<\/scenarioReportTemplate>";
 			var reportUrl = "https://s4.ispringsolutions.com";
 
-			ScenarioPlayerSolid.start("s_AC74C936-8753-4329-9951-58FD1B9EE67C", scenarioJson, skinSettingsJson, i18nJson, "content", onPlayerInit, savedScenarioState, "never", 960, 600, reportTemplate, 26, reportUrl, false);
+			ScenarioPlayerSolid.start("s_0BDD360E-7CA6-4139-8904-227960AF60B2", scenarioJson, skinSettingsJson, i18nJson, "content", onPlayerInit, savedScenarioState, "never", 960, 600, reportTemplate, 26, reportUrl, false);
 			function onPlayerInit(player)
 			{
 				(player);
